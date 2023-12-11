@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@800&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+
+html, body {
+  margin: 0;
+  padding: 25px;
+  background-color: darkgreen;
+  color: white;
+  text-align: center;
+}
+canvas {
+  display: block;
+  margin: auto;
+}
+h1 {
+  font-family: 'Libre Franklin', cursive;
+  font-size: xxx-large;
+  margin: auto;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+h2 {
+  font-size: x-large;
+  margin: auto;
+  text-align: center;
+  padding-bottom:20px;
+}
+
+p {
+  font-family: 'Young Serif', cursive;
+  font-size: large;
+  margin: auto;
+  text-align: center;
+  padding-bottom:20px;
+}
